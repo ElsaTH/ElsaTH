@@ -8,7 +8,7 @@
 <h1 align = "center"> Mi nombre es Elsa Toribio </h1>
 <h3 align = "center"> Una apasionada junior de la ciencia de datos en Madrid, España </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/elsa-toribio-herrero?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/elsa-toribio-herrero/)
+[![Linkedin: ElsaToribio](https://img.shields.io/badge/-elsatoribio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsatoribio/)](https://www.linkedin.com/in/elsatoribio/)
 [![Gmail Badge](https://img.shields.io/badge/-elsatrb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elsatrb@gmail.com)](mailto:elsatrb@gmail.com)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <hr>
