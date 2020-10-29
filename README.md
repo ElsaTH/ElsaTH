@@ -27,28 +27,28 @@
 
 
 
-<hr>
+<hr color=FFCCCC>
 
 
 <h3 align = "left"> 📝 QUÉ DOMINO </h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-FFCCCC?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-FFCCCC?style=flat&logo=R&logoColor=276DC3)
+  ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
+  ![R (Statistics)](https://img.shields.io/badge/-R-FFFFFF?style=flat&logo=R&logoColor=276DC3)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-FFCCCC?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-FFCCCC?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-FFCCCC?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-FFCCCC?style=flat&logo=rstudio)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-FFFFFF?style=flat&logo=rstudio)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FFCCCC?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-FFCCCC?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-FFCCCC?style=flat&logo=adobe-indesign)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat&logo=adobe-indesign)
   
- <h3> 👩🏻‍🏫En proceso de aprendizaje </h3>
+ <h3> 👩🏻‍🏫 En proceso de aprendizaje </h3>
 
 - AWS amazon | Docker🐳 | Heroku | flask
 
