@@ -6,7 +6,7 @@
 
 
 <h1 align = "center"> Mi nombre es Elsa Toribio </h1>
-<h3 align = "center"> Una apasionada junior de la ciencia de datos en Madrid, España </h3>
+<h3 align = "left"> Una apasionada junior de la ciencia de datos 👩🏻‍💻 en Madrid, España </h3>
 
 [![Linkedin: ElsaToribio](https://img.shields.io/badge/-elsatoribio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsatoribio/)](https://www.linkedin.com/in/elsatoribio/)
 [![Gmail Badge](https://img.shields.io/badge/-elsatrb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elsatrb@gmail.com)](mailto:elsatrb@gmail.com)
@@ -14,13 +14,13 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <hr>
 
-- 🔭 Actualmente estoy trabajando en [pequeños proyectos personales ] (enlace -> proximamente en Heroku)
+- 👩🏻‍🔧 Actualmente estoy trabajando en [pequeños proyectos personales ] (enlace -> proximamente en Heroku)
 
-- 🌱 Aprendiendo ** Heroku y AWS amazon, entre otras muchas cosas **
+- 👩🏻‍🎓 Aprendiendo ** Heroku y AWS amazon, entre otras muchas cosas **
 
 - 🤝 Busco nuevos proyectos [para seguir formandome] (*****¿Quieres contratarme?*****)
 
-- 👨‍💻 Mis proyectos están disponibles en [https://github.com/ElsaTH](https://github.com/ElsaTH)
+- 👩🏻‍💻 Mis proyectos están disponibles en [https://github.com/ElsaTH](https://github.com/ElsaTH)
 
 - 💬 Sobre mi **    que decir !!!____________         Mejor conocemé y opina 😉 **
 
@@ -30,7 +30,7 @@
 <hr>
 
 
-<h3 align = "left"> QUÉ DOMINO </h3>
+<h3 align = "left"> 📝 QUÉ DOMINO </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -48,7 +48,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   
- <h3>En proceso de aprendizaje </h3>
+ <h3> 👩🏻‍🏫En proceso de aprendizaje </h3>
 
 - AWS amazon | Docker🐳 | Heroku | flask
 
@@ -67,5 +67,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elsaTH&show_icons=true&theme=synthwave" alt="elsath" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="elsath" height="300" width="500"></p>
 
