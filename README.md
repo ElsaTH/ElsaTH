@@ -2,7 +2,7 @@
 
 ### Bienvenidos a mi humilde github 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 <h1 align = "center"> Mi nombre es Elsa Toribio </h1>
