@@ -24,7 +24,6 @@
 - 💬 Sobre mi **    que decir !!!____________         Mejor conocemé y opina 😉 **
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 <hr>
