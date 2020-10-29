@@ -2,7 +2,7 @@
 
 ### Bienvenidos a mi humilde github 
 
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
 <h1 align = "center"> Mi nombre es Elsa Toribio </h1>
@@ -10,7 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/elsa-toribio-herrero?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/elsa-toribio-herrero/)
 [![Gmail Badge](https://img.shields.io/badge/-elsatrb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elsatrb@gmail.com)](mailto:elsatrb@gmail.com)
-
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <hr>
 
 - 🔭 Actualmente estoy trabajando en [pequeños proyectos personales ] (enlace -> proximamente en Heroku)
