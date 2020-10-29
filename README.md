@@ -10,6 +10,7 @@
 
 [![Linkedin: ElsaToribio](https://img.shields.io/badge/-elsatoribio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsatoribio/)](https://www.linkedin.com/in/elsatoribio/)
 [![Gmail Badge](https://img.shields.io/badge/-elsatrb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elsatrb@gmail.com)](mailto:elsatrb@gmail.com)
+[![GitHub ElsaTH](https://img.shields.io/github/followers/ElsaTH?label=follow&style=social)](https://github.com/ElsaTH)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <hr>
 
@@ -52,10 +53,19 @@
 - AWS amazon | Docker🐳 | Heroku | flask
 
 <hr>
+<h2 align="left">MI HISTORIAL DE GITHUB</h2>
 
+<h4 align="center">Visitantes... :eyes:</h4>
 
-<h3 align = "left"> MI HISTORIAL EN GITHUB </h3>
+<p align="center"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
 
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=elsath&show_icons=true&locale=en&layout=compact" alt = "elsath" /> </p>
+<h4 align="center">Lenguajes de programación :tongue:</h4>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=elsath&show_icons=true&locale=en" alt = "elsath" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaTH&langs_count=10&theme=tokyonight&layout=compact" alt="elsath" /></p>
+
+<h4 align="center">Estadísticas del perfil :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elsaTH&show_icons=true&theme=synthwave" alt="elsath" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="elsath" height="300" width="500"></p>
+
