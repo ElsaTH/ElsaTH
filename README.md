@@ -30,7 +30,7 @@
 <hr color=FFCCCC>
 
 
-<h3 align = "left"> 📝 QUÉ DOMINO </h3>
+<h3 align = "left"> QUÉ DOMINO </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
@@ -48,22 +48,22 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat&logo=adobe-indesign)
   
- <h3> 👩🏻‍🏫 En proceso de aprendizaje </h3>
+ <h3> En proceso de aprendizaje </h3>
 
 - AWS amazon | Docker🐳 | Heroku | flask
 
 <hr>
-<h2 align="left">MI HISTORIAL DE GITHUB</h2>
+<h2 align="left">Mi historial de  GITHUB</h2>
 
-<h4 align="center">Visitantes... :eyes:</h4>
+<h4 align="left">Visitantes... :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
 
-<h4 align="center">Lenguajes de programación :tongue:</h4>
+<h4 align="left">Lenguajes de programación :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaTH&langs_count=10&theme=tokyonight&layout=compact" alt="elsath" /></p>
 
-<h4 align="center">Estadísticas del perfil :musical_keyboard:</h4>
+<h4 align="left">Estadísticas del perfil :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elsaTH&show_icons=true&theme=synthwave" alt="elsath" /></p>
 
