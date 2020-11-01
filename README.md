@@ -2,8 +2,8 @@
 
 ### Bienvenidos a mi humilde github 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <h1 align = "center"> Mi nombre es Elsa Toribio </h1>
 <h3 align = "left"> Una apasionada junior de la ciencia de datos 👩🏻‍💻 en Madrid, España </h3>
@@ -55,12 +55,6 @@
 <hr>
 <h2 align="left">Mi historial de  GITHUB</h2>
 
-<h4 align="left">Visitantes... :eyes:</h4>
-
-<p align="left"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
-
-
-
 
 
 <h4 align="left">Lenguajes de programación :tongue:</h4>
@@ -73,5 +67,9 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=elsaTH&show_icons=true&theme=buefy" alt="elsath" /></p>
 
+<h4 align="left">Visitantes... :eyes:</h4>
 
+<p align="left"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
