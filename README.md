@@ -57,18 +57,21 @@
 
 <h4 align="left">Visitantes... :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
-<p align="center"><img src="https://github.com/ElsaTH/desktop-tutorial/blob/master/imagenes%20repo/contador.svg" alt="elsath" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
+
 
 
 
 
 <h4 align="left">Lenguajes de programación :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaTH&langs_count=10&theme=tokyonight&layout=compact" alt="elsath" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaTH&langs_count=10&theme=buefy&layout=compact" alt="elsath" /></p>
+
+
 
 <h4 align="left">Estadísticas del perfil :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elsaTH&show_icons=true&theme=synthwave" alt="elsath" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=elsaTH&show_icons=true&theme=buefy" alt="elsath" /></p>
+
 
 
