@@ -58,6 +58,10 @@
 <h4 align="left">Visitantes... :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
+<p align="center"><img src="https://github.com/ElsaTH/desktop-tutorial/blob/master/imagenes%20repo/contador.svg" alt="elsath" /></p>
+
+
+
 
 <h4 align="left">Lenguajes de programación :tongue:</h4>
 
