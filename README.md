@@ -13,8 +13,8 @@
 [![GitHub ElsaTH](https://img.shields.io/github/followers/ElsaTH?label=follow&style=social)](https://github.com/ElsaTH)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </br>
-<hr>
 </br>
+<hr>
 <h2 align = "left"> Sobre mi </h2>
 
 - 👩🏻‍🔧 Actualmente estoy trabajando en [pequeños proyectos personales ] (enlace -> proximamente en Heroku)
@@ -66,4 +66,5 @@
 <h4 align="left">Visitantes... :eyes:</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{elsaTH}/count.svg" alt="elsath" /></p>
 
-
+</br>
+<hr>
