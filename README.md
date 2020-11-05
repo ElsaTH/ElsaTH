@@ -15,7 +15,7 @@
 </br>
 </br>
 <hr>
-<h2 align = "left"> Sobre mi </h2>
+<h2 align = "left"> Sobre mí </h2>
 
 - 👩🏻‍🔧 Actualmente estoy trabajando en [pequeños proyectos personales ] (enlace -> proximamente en Heroku)
 
