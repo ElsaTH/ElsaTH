@@ -25,7 +25,7 @@
 
 - 👩🏻‍💻 Mis proyectos están disponibles en [https://github.com/ElsaTH](https://github.com/ElsaTH)
 
-- 💬 Sobre mí **    que decir !!!____________         Mejor conocemé y opina 😉 **
+- 💬 Sobre mí **    que decir !!!____________         Mejor conóceme y opina 😉 **
 
 </br>
 <h2 align = "left"> Mis conocimientos </h2>
