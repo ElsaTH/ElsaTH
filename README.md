@@ -52,6 +52,12 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat&logo=adobe-indesign)
 
+ <h3> Herramientas de visualización </h3>
+
+  - Qlik Sense
+  - Tableau
+  - Power BI
+
 
  <h3> En proceso de aprendizaje </h3>
 
