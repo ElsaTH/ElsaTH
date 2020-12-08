@@ -39,24 +39,44 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-FFFFFF?style=flat&logo=R&logoColor=276DC3)
+  [![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=Pandas&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/elsaTH)
+  [![Numpy](https://img.shields.io/badge/-Numpy-FFFFFF?style=flat&logo=Numpy&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/elsaTH)
+  [![Sklearn](https://img.shields.io/badge/-Sklearn-FFFFFF?style=flat&logo=sklearn&link=https://github.com/elsaTH)](https://github.com/elsaTH) 
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/elsaTH)
+  [![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=Seaborn&logoColor=white&link=https://github.com/elsaTH)](https://github.com/elsaTH)
+  [![Plotly](https://img.shields.io/badge/-Plotly-FFFFFF?style=flat&logo=Plotly&logoColor=white&link=https://github.com/elsaTH)](https://github.com/elsaTH)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFFFFF?style=flat&link=https://github.com/elsaTH)
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FFFFFF?style=flat&link=https://github.com/elsaTH)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=black)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
   ![RStudio](https://img.shields.io/badge/-RStudio-FFFFFF?style=flat&logo=rstudio)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FFFFFF?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-FFFFFF?style=flat&logo=adobe-indesign)
+  
+  
+
+
+
+
+
+
+
+
 
  <h3> Herramientas de visualización </h3>
 
-  - Qlik Sense
-  - Tableau
-  - Power BI
+  - ![QlikSense](https://img.shields.io/badge/-QlikSense-green?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/elsaTH)
+  - ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/elsaTH)
+  - ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/elsaTH)
+
 
 
  <h3> En proceso de aprendizaje </h3>
