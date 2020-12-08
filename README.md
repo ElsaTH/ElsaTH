@@ -25,7 +25,7 @@
 
 - 👩🏻‍🎓 Aprendiendo ** Heroku y AWS amazon, entre otras muchas cosas **
 
-- 🤝 Busco nuevos proyectos [para seguir formandome] (*****¿Quieres contratarme?*****)
+- 🤝 Busco nuevos proyectos [para seguir formandome] (*****¿Quieres contar conmigo?*****)
 
 - 👩🏻‍💻 Mis proyectos están disponibles en [https://github.com/ElsaTH](https://github.com/ElsaTH)
 
