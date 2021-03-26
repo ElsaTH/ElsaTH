@@ -17,15 +17,10 @@
 <hr>
 <h2 align = "left"> Sobre mí </h2>
 
-- 📄 Mi curriculum [CV](https://drive.google.com/file/d/15wqQYc1i8cX9-NynJ6Q6FRJbGobe_zJ2/view?usp=sharing)
 
 - 💻 Mi porfolio [portfolio](https://elsath.github.io/ElsaTH_Porfolio/)
 
-- 👩🏻‍🔧 Actualmente estoy trabajando en [pequeños proyectos personales ] (enlace -> proximamente en Heroku)
-
-- 👩🏻‍🎓 Aprendiendo ** Heroku y AWS amazon, entre otras muchas cosas **
-
-- 🤝 Busco nuevos proyectos [para seguir formandome] (*****¿Quieres contar conmigo?*****)
+- 🤝 Busco nuevos proyectos [para seguir formándome] (*****¿Quieres contar conmigo?*****)
 
 - 👩🏻‍💻 Mis proyectos están disponibles en [https://github.com/ElsaTH](https://github.com/ElsaTH)
 
